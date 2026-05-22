@@ -1,10 +1,10 @@
 ---
-title: News
+title: Articulos
 nav:
   order: 3
 ---
 
-These are latest news from [Pack11ty]{.pack11ty} :
+Estos son los articulos de [blog.naiel.fyi]{.naielfyi} :
 
 <div class="stack">
 

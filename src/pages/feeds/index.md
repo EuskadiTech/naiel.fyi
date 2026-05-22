@@ -4,6 +4,6 @@ title: Feeds
 
 ![RSS logo](feed.png){.logo}
 
-You can follow Pack11ty news with this Atom feed:
+Aqui tienes el feed de Atom de este sitio web.
 
 [/feeds/news.xml](/feeds/news.xml)
