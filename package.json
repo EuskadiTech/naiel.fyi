@@ -1,13 +1,13 @@
 {
-	"name": "pack11ty",
+	"name": "naielfyi",
 	"version": "2.2.0",
-	"title": "Pack11ty",
-	"description": "an heavily opinionated Eleventy template project",
-	"homepage": "https://pack11ty.dev/",
+	"title": "El blog de Naiel",
+	"description": "Un blog de muchos que hay",
+	"homepage": "https://blog.naiel.fyi/",
 	"author": {
-		"name": "Nicolas Hoizey",
-		"url": "https://nicolas-hoizey.com/",
-		"email": "nicolas@hoizey.com"
+		"name": "Naiel V",
+		"url": "https://blog.naiel.fyi/",
+		"email": "yo@naiel.fyi"
 	},
 	"keywords": [
 		"eleventy",
@@ -18,10 +18,10 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/nhoizey/pack11ty.git"
+		"url": "git+https://github.com/euskaditech/naiel.fyi.git"
 	},
 	"bugs": {
-		"url": "https://github.com/nhoizey/pack11ty/issues"
+		"url": "https://github.com/euskaditech/naiel.fyi/issues"
 	},
 	"license": "MIT",
 	"type": "module",
