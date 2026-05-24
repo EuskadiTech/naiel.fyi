@@ -3,10 +3,10 @@
 	"version": "2.2.0",
 	"title": "naiel.fyi",
 	"description": "Un blog de muchos que hay",
-	"homepage": "https://naiel.fyi/",
+	"homepage": "https://tech.eus/blog/",
 	"author": {
 		"name": "Naiel V",
-		"url": "https://naiel.fyi/",
+		"url": "https://tech.eus/blog/",
 		"email": "yo@naiel.fyi"
 	},
 	"keywords": [
