@@ -1,12 +1,12 @@
 {
 	"name": "naielfyi",
 	"version": "2.2.0",
-	"title": "blog.naiel.fyi",
+	"title": "naiel.fyi",
 	"description": "Un blog de muchos que hay",
-	"homepage": "https://blog.naiel.fyi/",
+	"homepage": "https://naiel.fyi/",
 	"author": {
 		"name": "Naiel V",
-		"url": "https://blog.naiel.fyi/",
+		"url": "https://naiel.fyi/",
 		"email": "yo@naiel.fyi"
 	},
 	"keywords": [
