@@ -21,6 +21,6 @@ RUN npm run build
 FROM lipanski/docker-static-website:latest
 
 # Copia el output generado por 11ty
-COPY --from=builder /app/_site .
+COPY --from=builder /app/_site /home/static/blog
 
 EXPOSE 3000
