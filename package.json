@@ -27,7 +27,7 @@
 	"type": "module",
 	"scripts": {
 		"clean": "rimraf _site",
-		"build:eleventy": "eleventy",
+		"build:eleventy": "eleventy --pathprefix=/blog/",
 		"watch:eleventy": "eleventy --serve",
 		"serviceworker:injectmanifest": "workbox injectManifest workbox.config.cjs",
 		"serviceworker:bundle": "node build-service-worker.js",
