@@ -3,10 +3,10 @@
 	"version": "2.2.0",
 	"title": "naiel.fyi",
 	"description": "Un blog de muchos que hay",
-	"homepage": "https://tech.eus/blog/",
+	"homepage": "https://naiel.fyi/",
 	"author": {
 		"name": "Naiel V",
-		"url": "https://tech.eus/blog/",
+		"url": "https://naiel.fyi/",
 		"email": "yo@naiel.fyi"
 	},
 	"keywords": [
@@ -27,7 +27,7 @@
 	"type": "module",
 	"scripts": {
 		"clean": "rimraf _site",
-		"build:eleventy": "eleventy --pathprefix=/blog/",
+		"build:eleventy": "eleventy",
 		"watch:eleventy": "eleventy --serve",
 		"serviceworker:injectmanifest": "workbox injectManifest workbox.config.cjs",
 		"serviceworker:bundle": "node build-service-worker.js",
